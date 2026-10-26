@@ -49,8 +49,9 @@ export default function App() {
     >
       {/* Pas d'AnimatePresence ici : une animation de sortie bloquée laisserait l'ancienne page affichée. Entrée seule, instantanée. */}
       <motion.div key={key} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.22, ease: [0.22, 1, 0.36, 1] }} className="pb-6">
+          {/* Tant que l'inscription n'est pas faite, toute URL (y compris la racine sans #) renvoie vers l'inscription. */}
+          {gated ? <Navigate to="/welcome" replace /> : (
           <Routes location={location}>
-            {gated ? <Route path="*" element={<Navigate to="/welcome" replace />} /> : null}
             {screens.map((s) => {
               const C = routeComponents[s.path];
               return <Route key={s.path} path={s.path} element={<C />} />;
@@ -58,6 +59,7 @@ export default function App() {
             <Route path="/__screens" element={<ScreensIndex />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
+          )}
       </motion.div>
     </PhoneFrame>
   );
