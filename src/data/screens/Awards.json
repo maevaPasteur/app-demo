@@ -1,0 +1,84 @@
+{
+  "title": "Awards",
+  "seasonTab": "Season 7",
+  "allTimeTab": "All-time",
+  "inContention": "Season 7 medals in contention",
+  "collected": "medals collected all-time",
+  "filters": {
+    "all": "All",
+    "earned": "Earned",
+    "unlock": "To unlock"
+  },
+  "globalRanking": "GLOBAL RANKING",
+  "world": "WORLD",
+  "reachTop3": "reach top 3",
+  "toBronze": "to bronze",
+  "noMedal": "no medal yet",
+  "noWorldMedal": "no world medal yet",
+  "medals": "medals",
+  "medal": "medal",
+  "moreWorlds": "Show {n} more worlds",
+  "lessWorlds": "Show fewer worlds",
+  "wins": "WINS",
+  "winsCount": "12 Dares & Duels",
+  "seeAllWins": "See all wins",
+  "fewerWins": "Show fewer",
+  "pts": "pts",
+  "emptyFilter": "Nothing here yet. Keep climbing.",
+  "winsList": [
+    {
+      "type": "DUEL",
+      "world": "Lifestyle",
+      "sub": "Beach",
+      "title": "Golden hour on the beach, sun on skin",
+      "vs": "vs @isSerena · Oct 2026",
+      "pts": 320,
+      "to": "/video/v01"
+    },
+    {
+      "type": "DARE",
+      "world": "Lifestyle",
+      "sub": "Beach",
+      "title": "One take, from sunset to starlight, wet hair",
+      "vs": "8 entries · Sep 2026",
+      "pts": 180,
+      "to": "/video/v04"
+    },
+    {
+      "type": "DUEL",
+      "world": "Lifestyle",
+      "sub": "Home",
+      "title": "Walk your kitchen like a runway, swimsuit dress code",
+      "vs": "vs @kenza.home · Sep 2026",
+      "pts": 260,
+      "to": "/creator/nova.rey"
+    },
+    {
+      "type": "DARE",
+      "world": "Lifestyle",
+      "sub": "Vlog",
+      "title": "24 hours on the beach, three outfits, each one smaller",
+      "vs": "11 entries · Aug 2026",
+      "pts": 140,
+      "to": "/creator/nova.rey"
+    },
+    {
+      "type": "DUEL",
+      "world": "Dance",
+      "sub": "Bikini dance",
+      "title": "Sunset choreo on wet sand",
+      "vs": "vs @isSerena · Aug 2026",
+      "pts": 210,
+      "to": "/world/dance"
+    },
+    {
+      "type": "DUEL",
+      "world": "Lifestyle",
+      "sub": "Beach",
+      "title": "Hottest beach walk in slow motion",
+      "vs": "vs @zoe · Jul 2026",
+      "pts": 190,
+      "to": "/creator/zoe"
+    }
+  ]
+}

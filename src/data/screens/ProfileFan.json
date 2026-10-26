@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "following": "FOLLOWING",
+    "subscriptions": "SUBSCRIPTIONS",
+    "votes": "VOTES"
+  },
+  "editProfile": "Edit profile",
+  "spent": "spent this month · 100% paid to creators",
+  "joker": "JOKER",
+  "jokerOpen": "OPEN",
+  "jokerLine": "Season 7 · Level",
+  "jokerXp": "XP to next card",
+  "podiumLine": "on the fan podium",
+  "referral": "REFERRAL",
+  "referralTitle": "Invite friends, unlock",
+  "referralPct": "FREE",
+  "referralSub": "4 friends joined · 4 free unlocks earned",
+  "referralToast": "Invite link copied",
+  "purchased": "PURCHASED",
+  "seeAll": "SEE ALL",
+  "purchasedEmpty": "Unlock a video and it lives here forever.",
+  "subscriptions": "SUBSCRIPTIONS",
+  "perMonth": "/mo",
+  "renews": "Renews Nov",
+  "votes": "VOTES",
+  "votedFor": "Voted",
+  "settings": "SETTINGS",
+  "settingsRows": [
+    {
+      "id": "subs",
+      "label": "Subscriptions"
+    },
+    {
+      "id": "identity",
+      "label": "Identity verification"
+    },
+    {
+      "id": "privacy",
+      "label": "Privacy & safety"
+    },
+    {
+      "id": "notifications",
+      "label": "Notifications"
+    },
+    {
+      "id": "help",
+      "label": "Help & support"
+    },
+    {
+      "id": "logout",
+      "label": "Log out"
+    }
+  ],
+  "status": {
+    "verified": "Verified",
+    "pending": "Pending",
+    "unverified": "Age declared"
+  },
+  "restart": "Restart demo"
+}

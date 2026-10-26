@@ -1,0 +1,64 @@
+{
+  "today": "TODAY",
+  "activeNow": "Active now",
+  "lastSeen": "Active 1h ago",
+  "placeholder": "Message…",
+  "typing": "typing",
+  "safety": "Safety tools · block, report, mute",
+  "attach": "Attach media from your gallery",
+  "privateRequest": "PRIVATE MEDIA REQUEST",
+  "theirOffer": "Their offer",
+  "respond": "Respond",
+  "privateVideo": "Private video",
+  "unlock": "Unlock",
+  "sentLocked": "Sent · locked until paid",
+  "unlocked": "Unlocked · yours forever",
+  "extra": {
+    "t1": [
+      {
+        "from": "nova.rey",
+        "text": "Made you something special for the season finale. Only for you 🌅",
+        "ago": "1m"
+      },
+      {
+        "from": "nova.rey",
+        "media": {
+          "price": 6.99,
+          "video": "v04"
+        },
+        "ago": "now"
+      }
+    ],
+    "t2": [
+      {
+        "from": "me",
+        "text": "Already voted twice. Don't tell anyone 😅",
+        "ago": "50m"
+      }
+    ],
+    "r1": [],
+    "r2": []
+  },
+  "replies": {
+    "default": [
+      "Haha love it 🔥",
+      "Deal. Give me 24h.",
+      "You always pick the boldest ones 😏",
+      "Okay okay, I'm in.",
+      "You make me blush 💜"
+    ]
+  },
+  "respondSheet": {
+    "title": "Respond to request",
+    "asked": "{handle} sent a {kind} request: {text}",
+    "price": "SET YOUR PRICE",
+    "oneTime": "one-time",
+    "attach": "Attach private video",
+    "attached": "Private video attached · 0:30",
+    "send": "Send private media",
+    "decline": "Decline request",
+    "sentToast": "Sent · paid to you instantly when unlocked",
+    "declinedToast": "Request declined",
+    "needVideo": "Attach a video first"
+  }
+}

@@ -1,0 +1,1 @@
+{ "name": "DaresOnly", "short_name": "DaresOnly", "display": "standalone", "background_color": "#080510", "theme_color": "#080510", "start_url": "./", "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }] }

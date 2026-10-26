@@ -1,0 +1,173 @@
+{
+  "common": {
+    "pickWorld": "PICK A WORLD",
+    "pickSub": "PICK A SUB-WORLD",
+    "challenge": "THE CHALLENGE",
+    "challengeHelp": "Describe exactly what a winning entry looks like. The clearer and more tempting it is, the more creators enter, the more fans unlock and the more you earn.",
+    "yourEntry": "YOUR ENTRY",
+    "pickClip": "Pick a clip from your camera roll",
+    "pickClipSub": "MP4 or MOV · vertical · up to 60s",
+    "tapReplace": "tap to replace",
+    "teaser": "FREE TEASER LENGTH",
+    "teaserFree": "free for",
+    "teaserEvery": "every fan",
+    "teaserHelp": "Base is 2s for everyone. Higher ranked fans unlock a longer teaser, up to 8s, as a rank perk.",
+    "subscriberNote": "Fans already subscribed to you get this in free. They watch your full entry at no cost and can vote for you without paying, so you start with your fanbase behind you.",
+    "duration": "DURATION",
+    "price": "UNLOCK PRICE",
+    "howItPays": "HOW IT PAYS",
+    "optional": "optional",
+    "required": "required",
+    "publishing": "Publishing…"
+  },
+  "dare": {
+    "title": "Create a dare",
+    "sub": "Set a challenge and drop your entry. Up to 10 creators compete, fans unlock and vote, and the winner's video gets boosted across the feed.",
+    "badges": [
+      "Runs 7 days",
+      "Up to 10 creators",
+      "Winner boosted"
+    ],
+    "placeholder": "What should creators do to win? e.g. Twerk on the beat drop, back to the camera, one take, no mercy.",
+    "value": "Twerk on the beat drop. Back to the camera, one take, no cuts, 8 seconds that leave them breathless.",
+    "file": "beat_drop_twerk.mp4",
+    "fileMeta": "0:38 · 24.5 MB",
+    "invite": "INVITE CREATORS",
+    "invitePlaceholder": "Search a creator to invite",
+    "inviteHelp": "Leave it open and any creator can join, up to 10. Invites just give a few a head start.",
+    "invited": [
+      "mira.ink"
+    ],
+    "pays": [
+      {
+        "icon": "lock",
+        "title": "A fan unlocks your video",
+        "text": "You earn {price}, paid to you instantly."
+      },
+      {
+        "icon": "plus",
+        "title": "A fan unlocks the whole line-up",
+        "text": "Their payment is split equally between every creator in the dare."
+      },
+      {
+        "icon": "trend",
+        "title": "Win, and the feed is yours",
+        "text": "The top voted video gets pushed across the feed for days, in front of thousands of new fans."
+      }
+    ],
+    "cta": "Publish dare",
+    "success": "Dare published",
+    "successSub": "Creators can join now. Season 7 points start counting."
+  },
+  "duel": {
+    "title": "Create a duel",
+    "sub": "Challenge one rival head to head. Fans unlock and vote both entries, and the winner's video gets boosted across the feed.",
+    "badges": [
+      "1 vs 1",
+      "Runs 7 days",
+      "Winner boosted"
+    ],
+    "rival": "CHALLENGE A RIVAL",
+    "rivalPlaceholder": "Search the creator you want to face",
+    "you": "YOU",
+    "change": "Change",
+    "acceptNote": "{rival} has to accept before the duel goes live.",
+    "defaultRival": "zoe",
+    "placeholder": "What should both of you do to win? e.g. Golden hour on the beach, sun on skin.",
+    "value": "Golden hour on the beach. Sun on skin, tiny swimsuit, one take, 30 seconds max.",
+    "file": "golden_hour_beach.mp4",
+    "fileMeta": "0:38 · 24.5 MB",
+    "pays": [
+      {
+        "icon": "lock",
+        "title": "A fan unlocks your video",
+        "text": "You earn {price}, paid to you instantly."
+      },
+      {
+        "icon": "plus",
+        "title": "A fan unlocks both to vote",
+        "text": "Their payment is split equally between you and {rival}."
+      },
+      {
+        "icon": "trend",
+        "title": "Win, and the feed is yours",
+        "text": "The winning video gets pushed across the feed for days, putting you in front of thousands of new fans."
+      }
+    ],
+    "cta": "Send challenge to {rival}",
+    "success": "Challenge sent",
+    "successSub": "{rival} has 24h to accept. You will get a notification."
+  },
+  "drop": {
+    "title": "Create a drop",
+    "sub": "Pre-sell content you haven't made yet. Fans back it upfront, and every stretch goal they hit unlocks more.",
+    "badges": [
+      "Pre-sale",
+      "Runs 14 days",
+      "Backers keep it"
+    ],
+    "format": "FORMAT",
+    "formats": [
+      "Solo",
+      "Collab"
+    ],
+    "collabHelp": "Invite up to 3 creators. Revenue is split equally and paid instantly to each.",
+    "collabDefault": [
+      "zoe",
+      "aria"
+    ],
+    "about": "THE DROP",
+    "placeholder": "Tease what this exclusive video is going to be",
+    "value": "A golden hour beach set from sunset to starlight. One location, three looks, each one smaller, full director's cut.",
+    "backerPrice": "BACKER PRICE",
+    "perBacker": "per backer",
+    "priceValue": 12,
+    "priceHelp": "What one fan pays to back the drop and keep permanent access.",
+    "goals": "STRETCH GOALS",
+    "goalWord": "GOAL",
+    "baseTag": "BASE · UNLOCKS THE DROP",
+    "goalsDefault": [
+      {
+        "amount": 500,
+        "text": "The full 10-minute golden hour set, uncut"
+      },
+      {
+        "amount": 1000,
+        "text": "+ 8 behind the scenes shots nobody else sees"
+      },
+      {
+        "amount": 2000,
+        "text": "+ Extended cut, with the tiniest third look"
+      }
+    ],
+    "goalIdeas": [
+      "+ Bonus scene voted by backers",
+      "+ Late night live for backers only",
+      "+ Raw outtakes reel",
+      "+ Private thank you video for every backer"
+    ],
+    "addGoal": "Add stretch goal",
+    "goalsHelp": "The first goal unlocks the drop. Each one after gives every backer more, so they push their friends to fund higher.",
+    "how": "HOW IT WORKS",
+    "pays": [
+      {
+        "icon": "download",
+        "title": "Fans back it upfront",
+        "text": "They pay now and the money reaches you instantly. Every backer keeps access forever."
+      },
+      {
+        "icon": "check",
+        "title": "Hit the goal, you deliver",
+        "text": "Once funded you create it and upload. Every backer gets it, and keeps it forever."
+      },
+      {
+        "icon": "trend",
+        "title": "Pass a stretch goal, everyone wins",
+        "text": "Each goal you clear unlocks more for all backers, and you are paid instantly on every sale."
+      }
+    ],
+    "cta": "Launch drop",
+    "success": "Drop launched",
+    "successSub": "Backers can fund it now for the next 14 days."
+  }
+}

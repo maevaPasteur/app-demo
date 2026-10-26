@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tokens extraits du Figma ZrX34oJ2Sy2wJSELqhHJyg (variables). Une couleur = une fonction :
+   OR marque/argent/prestige · ROSE follow/live/timers · VIOLET subscribe · CYAN vote/unlock · VERT free · ROUGE danger. */
+:root {
+  --bg: #080510;
+  --bg-2: #0c0817;
+  --ink-700: #120c1c;
+  --panel: #150e1f;
+  --panel-hi: #291e39;
+  --line: #ffffff14;
+  --line-strong: #ffffff26;
+  --txt: #f4eff8;
+  --txt-90: #e2dcec;
+  --muted: #9c90ac;
+  --muted-2: #6c6182;
+  --txt-inverse: #080510;
+
+  --gold: #ffb627;
+  --gold-soft: #ffd37a;
+  --gold-pale: #ffe7b0;
+  --on-gold: #241503;
+  --on-gold-medal: #3a2609;
+  --silver: #c9cdd6;
+  --bronze: #d08a5a;
+
+  --hot: #ff1f6b;
+  --hot-soft: #ff9db6;
+  --cool: #7b5cff;
+  --violet-300: #b7a4ff;
+  --cyan: #25e6c4;
+  --cyan-300: #7fffe6;
+  --cyan-600: #14b39a;
+  --on-cyan: #04241d;
+  --green: #35d07f;
+  --green-soft: #8affce;
+  --on-green: #06140d;
+  --danger: #ff4d4d;
+
+  --media-placeholder: #3e3b47;
+
+  /* Tones mondes (bg) */
+  --tone-cyan: #25e6c4;
+  --tone-magenta: #ff4fd8;
+  --tone-pink: #ff6fa5;
+  --tone-purple: #c05cff;
+  --tone-blue: #4f8cff;
+  --tone-violet: #7b5cff;
+  --tone-green: #35d07f;
+  --tone-orange: #ff8a3d;
+  --tone-gold: #ffb627;
+
+  --grad-gold-cta: linear-gradient(180deg, #ffd37a 0%, #ffb627 100%);
+  --grad-sub: linear-gradient(180deg, #9a82ff 0%, #7b5cff 100%);
+  --grad-cyan: linear-gradient(180deg, #7fffe6 0%, #25e6c4 100%);
+  --grad-card: linear-gradient(180deg, #1a1226 0%, #120c1c 100%);
+  --grad-scrim-down: linear-gradient(180deg, transparent 0%, rgba(8, 5, 16, 0.9) 100%);
+}
+
+html, body, #root { height: 100%; }
+.shine::after { content: ''; position: absolute; inset: 0; background: linear-gradient(110deg, transparent 30%, rgba(255,255,255,.45) 45%, transparent 60%); transform: translateX(-120%); animation: shine 3.2s ease-in-out infinite; }
+@keyframes shine { 0%, 55% { transform: translateX(-120%); } 100% { transform: translateX(120%); } }
+@keyframes floaty { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-6px) } }
+.floaty { animation: floaty 4s ease-in-out infinite; }
+@keyframes glowpulse { 0%,100% { opacity: .55 } 50% { opacity: 1 } }
+.glowpulse { animation: glowpulse 2.4s ease-in-out infinite; }
+* { -webkit-tap-highlight-color: transparent; }
+button { -webkit-user-select: none; user-select: none; }
+input, textarea { font: inherit; }
+body {
+  margin: 0;
+  background: #000;
+  color: var(--txt);
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { scrollbar-width: none; }
+.eyebrow { font-family: 'Chakra Petch', sans-serif; font-weight: 700; font-size: 11px; line-height: 14px; letter-spacing: 1.6px; text-transform: uppercase; }
+
+/* Double curseur (filtre taille) */
+.range-thumb::-webkit-slider-thumb { -webkit-appearance: none; pointer-events: auto; width: 22px; height: 22px; border-radius: 999px; background: #ffd37a; border: 3px solid #241503; box-shadow: 0 2px 10px rgba(255,182,39,.5); cursor: pointer; }
+.range-thumb::-moz-range-thumb { pointer-events: auto; width: 22px; height: 22px; border-radius: 999px; background: #ffd37a; border: 3px solid #241503; cursor: pointer; }

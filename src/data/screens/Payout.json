@@ -1,0 +1,90 @@
+{
+  "title": "Set up payouts",
+  "steps": ["Account", "Identity", "Bank", "Tax", "Preferences", "Review"],
+  "account": {
+    "title": "Where are you based?",
+    "sub": "We pay creators in 140+ countries, straight to your bank.",
+    "countries": [
+      { "id": "ae", "flag": "🇦🇪", "name": "United Arab Emirates", "currency": "AED" },
+      { "id": "fr", "flag": "🇫🇷", "name": "France", "currency": "EUR" },
+      { "id": "us", "flag": "🇺🇸", "name": "United States", "currency": "USD" },
+      { "id": "gb", "flag": "🇬🇧", "name": "United Kingdom", "currency": "GBP" },
+      { "id": "id", "flag": "🇮🇩", "name": "Indonesia", "currency": "IDR" }
+    ],
+    "typeLabel": "ACCOUNT TYPE",
+    "types": [
+      { "id": "individual", "title": "Individual", "sub": "Paid to your personal account" },
+      { "id": "company", "title": "Company", "sub": "Invoice and pay a business" }
+    ]
+  },
+  "identity": {
+    "title": "Confirm it's you",
+    "sub": "Required by law before any money moves.",
+    "verified": "Identity verified",
+    "verifiedSub": "Alex Martin · checked against your ID and selfie",
+    "notVerified": "Identity not verified yet",
+    "notVerifiedSub": "Takes about 2 minutes. Your documents stay encrypted.",
+    "quick": "Quick verify",
+    "full": "Open full verification",
+    "scanning": "Matching your selfie with your ID…"
+  },
+  "bank": {
+    "title": "Your bank account",
+    "sub": "Earnings land here after every sale.",
+    "holderLabel": "Account holder",
+    "holder": "Alex Martin",
+    "ibanLabel": "IBAN",
+    "iban": "AE07 0331 2345 6789 0123 456",
+    "swiftLabel": "SWIFT / BIC",
+    "swift": "EBILAEAD",
+    "checking": "Checking with your bank…",
+    "detected": "Emirates NBD · account found",
+    "secure": "Bank-grade encryption. We never store your full IBAN on device."
+  },
+  "tax": {
+    "title": "Tax information",
+    "sub": "A short certificate of foreign status, simplified.",
+    "residenceLabel": "Tax residence",
+    "residence": "United Arab Emirates",
+    "tinLabel": "Tax ID (optional)",
+    "tin": "",
+    "tinPlaceholder": "Leave empty if none",
+    "attestations": [
+      "I am the beneficial owner of the income paid to this account",
+      "I am not a U.S. person for tax purposes",
+      "The information I provided is true and complete"
+    ],
+    "signLabel": "Sign with your full name",
+    "sign": "Alex Martin"
+  },
+  "prefs": {
+    "title": "How do you want to be paid?",
+    "sub": "No wallet, no balance to withdraw. Money goes straight to you.",
+    "options": [
+      { "id": "instant", "title": "Instant after every sale", "sub": "Each unlock, vote, tip or subscription is paid to your bank within seconds.", "tag": "RECOMMENDED" },
+      { "id": "daily", "title": "Once a day", "sub": "All of today's sales, grouped into one transfer at midnight." },
+      { "id": "weekly", "title": "Once a week", "sub": "Every Monday, one transfer for the whole week." }
+    ],
+    "currencyLabel": "PAYOUT CURRENCY",
+    "currencies": ["USD", "EUR", "AED"],
+    "receiptLabel": "Email me a receipt for every payout"
+  },
+  "review": {
+    "title": "Review and activate",
+    "sub": "You can change this anytime in Settings.",
+    "rows": { "country": "Country", "type": "Account type", "identity": "Identity", "bank": "Bank", "tax": "Tax form", "schedule": "Schedule", "currency": "Currency" },
+    "edit": "Edit",
+    "cta": "Activate payouts",
+    "processing": "Activating…"
+  },
+  "done": {
+    "title": "Payouts are live",
+    "sub": "From now on every sale is paid to you instantly.",
+    "released": "released to your bank",
+    "pendingLabel": "Pending sales",
+    "cta": "Back to my dashboard",
+    "toast": "Payouts active · paid instantly"
+  },
+  "continue": "Continue",
+  "back": "Back"
+}

@@ -1,0 +1,36 @@
+{
+  "navTitle": "Identity verification",
+  "title": "Verify your identity",
+  "sub": "Confirm who you are to unlock payouts, earn your verified badge and build trust with your fans.",
+  "status": { "unverified": "Not verified yet", "pending": "Under review", "verified": "Verified" },
+  "need": "WHAT YOU WILL NEED",
+  "needRows": [
+    { "icon": "id", "title": "A government ID", "text": "Passport, ID card or driving licence" },
+    { "icon": "camera", "title": "A camera", "text": "To scan your ID and take a quick selfie" },
+    { "icon": "clock", "title": "About 3 minutes", "text": "Most checks are approved within minutes" }
+  ],
+  "how": "HOW IT WORKS",
+  "howRows": [
+    { "title": "Scan your ID", "text": "Snap a clear photo of a government-issued document. Make sure all four corners are visible." },
+    { "title": "Take a selfie", "text": "A quick liveness check to confirm it is really you and matches your ID." },
+    { "title": "Get reviewed", "text": "We check everything securely. You will get a notification as soon as it is done." }
+  ],
+  "why": "WHY VERIFY",
+  "whyRows": ["Verified badge on your public profile", "Instant payouts straight to your account", "More trust and reach with your fans", "Unlock duels, dares and drops"],
+  "start": "Start verification",
+  "later": "Maybe later",
+  "footer": "Takes about 3 minutes · usually approved within minutes",
+  "stepOf": "Step {n} of 3",
+  "align": "Align your ID inside the frame",
+  "capturing": "Hold still…",
+  "selfieAlign": "Center your face in the circle",
+  "selfieTurn": "Slowly turn your head",
+  "next": "Continue",
+  "retake": "Retake",
+  "doneTitle": "You're verified",
+  "doneSub": "Your badge is live and payouts are unlocked. Every sale is paid to you instantly.",
+  "doneCta": "Done",
+  "toast": "Identity verified",
+  "idName": "ALEX MARTIN",
+  "idMeta": ["ID CARD", "DOB 14 03 1997", "EXP 2031"]
+}

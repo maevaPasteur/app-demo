@@ -1,0 +1,68 @@
+{
+  "championSuffix": "champion",
+  "statsLine": "{followers} followers · {wins} wins this season",
+  "trust": [
+    {
+      "label": "ID verified",
+      "icon": "shield",
+      "accent": "green"
+    },
+    {
+      "label": "Active today",
+      "icon": "clock",
+      "accent": "green"
+    },
+    {
+      "label": "Replies in ~1h",
+      "icon": "chat",
+      "accent": "muted"
+    },
+    {
+      "label": "98% happy fans",
+      "icon": "spark",
+      "accent": "muted"
+    }
+  ],
+  "plan": {
+    "title": "Subscribe",
+    "perks": [
+      "All {count} videos unlocked, forever",
+      "New bold challenges every week",
+      "Free votes in {name}'s duels",
+      "Priority on private, just-for-you challenges"
+    ],
+    "note": "Cancel anytime · paid instantly to the creator",
+    "subscribedNote": "You're subscribed · everything is unlocked"
+  },
+  "awards": {
+    "title": "Awards",
+    "sub": "Top 3 finishes, season after season",
+    "showAll": "Show all",
+    "showLess": "Show less",
+    "empty": "No medal yet. The season is heating up."
+  },
+  "live": {
+    "title": "Live now",
+    "sub": "Challenges {name} is in right now"
+  },
+  "content": {
+    "title": "Videos",
+    "filters": [
+      "All",
+      "Paid",
+      "Subs",
+      "Free"
+    ],
+    "subsTag": "SUBS",
+    "freeTag": "FREE",
+    "empty": "Nothing here yet."
+  },
+  "request": {
+    "cta": "Request a private challenge",
+    "label": "Private challenge with {handle}",
+    "sub": "Describe your idea after payment · refunded if declined",
+    "price": 25
+  },
+  "share": "Profile link copied",
+  "safety": "Thanks, our team will review this profile"
+}

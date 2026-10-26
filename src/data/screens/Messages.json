@@ -1,0 +1,43 @@
+{
+  "title": "Messages",
+  "search": "Search messages",
+  "tabs": [
+    "Primary",
+    "General",
+    "Requests"
+  ],
+  "requestsIntro": "These people want to message you for the first time. They can't see if you've read it until you accept.",
+  "accept": "Accept",
+  "delete": "Delete",
+  "accepted": "Request accepted · moved to Primary",
+  "deleted": "Request deleted",
+  "empty": "No conversations match your search.",
+  "general": [
+    {
+      "id": "g1",
+      "with": "jules.beats",
+      "last": "Sent you the outtakes from the spa night set. Warm oil, you'll see",
+      "ago": "2h",
+      "unread": 0
+    },
+    {
+      "id": "g2",
+      "with": "yuki",
+      "last": "Did you see the Pikachu duel? That zipper scene 😳",
+      "ago": "Tue",
+      "unread": 0
+    },
+    {
+      "id": "g3",
+      "with": "kai.ollie",
+      "last": "Next dare: shirtless battle in capes. You in?",
+      "ago": "Mon",
+      "unread": 0
+    }
+  ],
+  "online": [
+    "nova.rey",
+    "aria",
+    "lena_k"
+  ]
+}

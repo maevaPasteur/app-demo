@@ -1,0 +1,896 @@
+{
+  "creator": [
+    {
+      "id": "r1",
+      "with": "lena_k",
+      "folder": "requests",
+      "online": true,
+      "unread": 1,
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 26,
+          "text": "Hey Nova. Your golden hour clips keep me up at night 🌅"
+        },
+        {
+          "kind": "request",
+          "from": "other",
+          "ago": 25,
+          "request": {
+            "brief": "Red bikini, golden hour, sun right behind you. Walk into the waves slowly and look back at the camera 👀",
+            "offer": 60,
+            "deadline": "3 days",
+            "world": "content",
+            "status": "requested"
+          }
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 24,
+          "text": "No rush. I just love how the light hits your skin"
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "with": "marco",
+      "folder": "requests",
+      "unread": 1,
+      "msgs": [
+        {
+          "kind": "request",
+          "from": "other",
+          "ago": 180,
+          "request": {
+            "brief": "A 30s slow motion walk out of the water, wet hair, ending with a wink at the sunset.",
+            "offer": 45,
+            "deadline": "5 days",
+            "world": "content",
+            "status": "requested"
+          }
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 178,
+          "text": "I'm keeping this one all to myself 😏"
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "with": "yuki",
+      "folder": "requests",
+      "online": true,
+      "unread": 2,
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 55,
+          "text": "Is it bold to ask for a birthday video? 😏"
+        },
+        {
+          "kind": "request",
+          "from": "other",
+          "ago": 54,
+          "request": {
+            "brief": "A 20s birthday shout out from the beach for my girlfriend Hana. Bikini, sunset, blow her a kiss.",
+            "offer": 35,
+            "deadline": "48h",
+            "world": "content",
+            "status": "requested"
+          }
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 53,
+          "text": "Her birthday is Friday. Make her blush!"
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "with": "bea",
+      "folder": "requests",
+      "unread": 1,
+      "msgs": [
+        {
+          "kind": "request",
+          "from": "other",
+          "ago": 360,
+          "request": {
+            "brief": "Kitchen runway, 45s, swimsuit of my choice, slow walk, eyes on the lens the whole time.",
+            "offer": 80,
+            "deadline": "1 week",
+            "world": "content",
+            "status": "requested"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "with": "zoe",
+      "folder": "requests",
+      "online": true,
+      "unread": 1,
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 40,
+          "text": "Rematch? 😈"
+        },
+        {
+          "kind": "duel",
+          "from": "other",
+          "ago": 39,
+          "title": "1v1 in Cosplay · hottest Pikachu look, 30 seconds",
+          "world": "content",
+          "price": 2,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "r6",
+      "with": "aria",
+      "folder": "requests",
+      "unread": 1,
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 130,
+          "text": "Okay I have a bold idea and you're the only one who can pull it off"
+        },
+        {
+          "kind": "collab",
+          "from": "other",
+          "ago": 129,
+          "title": "Beach heat x golden hour drop · one take, tiny bikinis, sunset",
+          "goal": 1500,
+          "split": "equal split",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "r7",
+      "with": "tom",
+      "folder": "requests",
+      "unread": 1,
+      "msgs": [
+        {
+          "kind": "request",
+          "from": "other",
+          "ago": 540,
+          "request": {
+            "brief": "Say my name in your next beach clip. 5 seconds, whisper it.",
+            "offer": 25,
+            "deadline": "2 weeks",
+            "world": "action",
+            "status": "requested"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r8",
+      "with": "rexplays",
+      "folder": "requests",
+      "unread": 1,
+      "msgs": [
+        {
+          "kind": "duel",
+          "from": "other",
+          "ago": 1680,
+          "title": "Hero physique x beach collab · 45s, cape on the sand, shirt off",
+          "world": "gaming",
+          "price": 2,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "p1",
+      "with": "nico",
+      "folder": "primary",
+      "pinned": true,
+      "online": true,
+      "unread": 1,
+      "msgs": [
+        {
+          "kind": "request",
+          "from": "other",
+          "ago": 1560,
+          "request": {
+            "brief": "Behind the scenes of your golden hour set, 60s, the takes nobody else gets to see.",
+            "offer": 40,
+            "deadline": "48h",
+            "world": "content",
+            "status": "paid"
+          }
+        },
+        {
+          "kind": "system",
+          "from": "system",
+          "ago": 1555,
+          "text": "Accepted · @nico paid $40 instantly to you"
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 1554,
+          "text": "Paid! Can't wait 🔥"
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 12,
+          "text": "Any ETA? I keep refreshing 😅"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "with": "ines",
+      "folder": "primary",
+      "pinned": true,
+      "msgs": [
+        {
+          "kind": "request",
+          "from": "other",
+          "ago": 4320,
+          "request": {
+            "brief": "A 30s bikini dance on the beach to my favorite song. Slow, sunset light, all eyes on you.",
+            "offer": 50,
+            "deadline": "3 days",
+            "world": "dance",
+            "status": "delivered"
+          }
+        },
+        {
+          "kind": "system",
+          "from": "system",
+          "ago": 4310,
+          "text": "Accepted · @ines paid $50 instantly to you"
+        },
+        {
+          "kind": "private",
+          "from": "self",
+          "ago": 2880,
+          "video": "v03",
+          "price": 50,
+          "paid": true,
+          "text": "Here it is ✨ made you wait, didn't I"
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 2860,
+          "text": "I can't breathe. This is perfect 🥵💜"
+        },
+        {
+          "kind": "tip",
+          "from": "other",
+          "ago": 2859,
+          "amount": 10,
+          "text": "Thank you!!"
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 2855,
+          "text": "Already watched it 12 times. Not stopping."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "with": "kiki",
+      "folder": "primary",
+      "online": true,
+      "unread": 0,
+      "msgs": [
+        {
+          "kind": "request",
+          "from": "other",
+          "ago": 240,
+          "request": {
+            "brief": "Wear my favorite tiny beach outfit in a 20s clip. Slow spin.",
+            "offer": 50,
+            "deadline": "5 days",
+            "world": "art",
+            "status": "countered",
+            "counter": 70
+          }
+        },
+        {
+          "kind": "counter",
+          "from": "self",
+          "ago": 210,
+          "amount": 70,
+          "text": "Love it. That outfit is barely there though, can we do $70? 😏"
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 200,
+          "text": "Tempting... let me think about it 🤔"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "with": "me",
+      "folder": "primary",
+      "unread": 2,
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 1470,
+          "text": "That sunset shot was unreal. I can't stop replaying it."
+        },
+        {
+          "kind": "text",
+          "from": "self",
+          "ago": 1460,
+          "text": "Took 9 tries. You got the best one 😘",
+          "read": true
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 35,
+          "text": "Unlocked the director's cut too. Worth every cent 🔥"
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 34,
+          "text": "When is the next drop? I need it."
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "with": "isSerena",
+      "folder": "primary",
+      "online": true,
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 300,
+          "text": "Your golden hour drop numbers are insane. They can't get enough of you"
+        },
+        {
+          "kind": "text",
+          "from": "self",
+          "ago": 297,
+          "text": "Look who's talking. 246 backers??",
+          "read": true
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 295,
+          "text": "We should do a beach collab next season. Two bikinis, one sunset."
+        },
+        {
+          "kind": "text",
+          "from": "self",
+          "ago": 292,
+          "text": "100%. The fans won't survive it. Let's talk this week",
+          "read": true
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "with": "dara",
+      "folder": "primary",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 420,
+          "text": "A full year subscribed and still obsessed 💛"
+        },
+        {
+          "kind": "tip",
+          "from": "other",
+          "ago": 419,
+          "amount": 20,
+          "text": "For your next beach clip. Make it hot."
+        },
+        {
+          "kind": "text",
+          "from": "self",
+          "ago": 360,
+          "text": "You're spoiling me, thank you Dara 😘",
+          "read": true
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "with": "jules.beats",
+      "folder": "primary",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 540,
+          "text": "Sent you the outtakes from my spa night set. Warm oil, candles, you'll see."
+        },
+        {
+          "kind": "media",
+          "from": "other",
+          "ago": 539,
+          "video": "v52",
+          "text": "sneak peek"
+        },
+        {
+          "kind": "text",
+          "from": "self",
+          "ago": 480,
+          "text": "So soft. Love it 🙌",
+          "read": true
+        }
+      ]
+    },
+    {
+      "id": "p8",
+      "with": "mira.ink",
+      "folder": "primary",
+      "unread": 1,
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 80,
+          "text": "Made an elf cosplay inspired by you. Sheer wings, gold everything 🏆"
+        },
+        {
+          "kind": "media",
+          "from": "other",
+          "ago": 79,
+          "video": "v22",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "p9",
+      "with": "lina.k",
+      "folder": "primary",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 2880,
+          "text": "Can I shoot my next twerk clip at your beach spot? The view is unfair."
+        },
+        {
+          "kind": "text",
+          "from": "self",
+          "ago": 2820,
+          "text": "Of course. Sunday morning, bring the tiny suit.",
+          "read": true
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 2819,
+          "text": "Perfect 💜"
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "with": "kai.ollie",
+      "folder": "primary",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 4320,
+          "text": "Need someone to film my shirtless shoot on the beach 😂"
+        },
+        {
+          "kind": "text",
+          "from": "self",
+          "ago": 4305,
+          "text": "Only if I get the golden hour shot. And the cape stays home.",
+          "read": true
+        }
+      ]
+    },
+    {
+      "id": "g1",
+      "with": "tessa.flip",
+      "folder": "general",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 5760,
+          "text": "Watched the duel recap, you were the hottest one, they robbed you"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "with": "noor.paint",
+      "folder": "general",
+      "unread": 1,
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 660,
+          "text": "New here. You are literally the reason I joined"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "with": "leo.keys",
+      "folder": "general",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 7200,
+          "text": "Want a warm oil foot collab? Slow, candles, just for fun"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "with": "sam.drift",
+      "folder": "general",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 8640,
+          "text": "GG on the season. See you on the podium, looking like that"
+        }
+      ]
+    },
+    {
+      "id": "team",
+      "with": "daresonly",
+      "folder": "general",
+      "msgs": [
+        {
+          "kind": "system",
+          "from": "system",
+          "ago": 11520,
+          "text": "Season 6 recap · 🥇 Gold in Beach · 🥈 Silver Global"
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 11520,
+          "text": "Congrats on your Beach gold! Your medal is now on your profile."
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 2880,
+          "text": "Payout sent · $2,140.20 this week, paid instantly on every sale"
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 1440,
+          "text": "Season 7 is live. 12 days to defend your Beach title 🏆"
+        }
+      ]
+    }
+  ],
+  "fan": [
+    {
+      "id": "t1",
+      "with": "nova.rey",
+      "folder": "primary",
+      "online": true,
+      "unread": 2,
+      "pinned": true,
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "self",
+          "ago": 12,
+          "text": "That sunset shot was unreal. I can't stop replaying it.",
+          "read": true
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 2,
+          "text": "Thanks for unlocking! Next one drops Friday."
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 1,
+          "text": "Made you something special for the season finale. Only for you 🌅"
+        },
+        {
+          "kind": "private",
+          "from": "other",
+          "ago": 0,
+          "video": "v04",
+          "price": 6.99,
+          "paid": false,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "with": "aria",
+      "folder": "primary",
+      "unread": 1,
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 60,
+          "text": "Vote closes tonight. Keep me on top 👀"
+        },
+        {
+          "kind": "text",
+          "from": "self",
+          "ago": 50,
+          "text": "Already voted twice. Don't tell anyone 😅",
+          "read": true
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 48,
+          "text": "Legend. That twerk gold is coming home with me"
+        }
+      ]
+    },
+    {
+      "id": "t3",
+      "with": "isSerena",
+      "folder": "primary",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 1440,
+          "text": "Pick the song, I pick the bikini"
+        },
+        {
+          "kind": "text",
+          "from": "self",
+          "ago": 1410,
+          "text": "Something slow. Very slow 🙏",
+          "read": true
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "with": "zoe",
+      "folder": "primary",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 2880,
+          "text": "Thank you for subscribing 💜 here's a little something nobody else gets"
+        },
+        {
+          "kind": "media",
+          "from": "other",
+          "ago": 2879,
+          "video": "v12",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "with": "kai.ollie",
+      "folder": "general",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 4320,
+          "text": "Thanks for the vote. Cape off for the rematch? 💪"
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "with": "rexplays",
+      "folder": "general",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 5760,
+          "text": "Hero physique rematch tomorrow. Shirts optional, votes mandatory 🦇"
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "with": "lena_k",
+      "folder": "primary",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 360,
+          "text": "Nova accepted my red bikini request. I'm not okay 😍"
+        }
+      ]
+    },
+    {
+      "id": "fteam",
+      "with": "daresonly",
+      "folder": "general",
+      "msgs": [
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 10080,
+          "text": "Welcome to DaresOnly 👋 Your first vote is on us."
+        },
+        {
+          "kind": "text",
+          "from": "other",
+          "ago": 180,
+          "text": "You're #5 on the Season 7 fan podium. 140 pts to #4!"
+        }
+      ]
+    }
+  ],
+  "ambient": {
+    "creator": [
+      {
+        "kind": "text",
+        "text": "Just discovered you. Binge-watched everything at 3am 😮‍💨"
+      },
+      {
+        "kind": "tip",
+        "amount": 5,
+        "text": "Coffee's on me ☕"
+      },
+      {
+        "kind": "request",
+        "request": {
+          "brief": "A 15s intro for my channel. Beach at sunset, you in a bikini, blowing a kiss.",
+          "offer": 55,
+          "deadline": "4 days",
+          "world": "content",
+          "status": "requested"
+        }
+      },
+      {
+        "kind": "text",
+        "text": "That Beach gold was deserved. So was the bikini 🏆"
+      },
+      {
+        "kind": "tip",
+        "amount": 10,
+        "text": "For the golden hour drop. Worth every cent!"
+      },
+      {
+        "kind": "request",
+        "request": {
+          "brief": "A sunset message for my girlfriend's birthday, 40s, flirty, I'll send the script 💍",
+          "offer": 120,
+          "deadline": "2 weeks",
+          "world": "content",
+          "status": "requested"
+        }
+      },
+      {
+        "kind": "text",
+        "text": "Is the director's cut coming back? I need the uncut takes."
+      }
+    ],
+    "creatorFrom": [
+      "nico",
+      "ines",
+      "kiki",
+      "dara",
+      "tom",
+      "yuki",
+      "bea",
+      "marco",
+      "lena_k",
+      "me"
+    ],
+    "fan": [
+      {
+        "kind": "text",
+        "text": "New duel just went live. Come see who wins 👀"
+      },
+      {
+        "kind": "text",
+        "text": "Thanks for the support this season 💛"
+      },
+      {
+        "kind": "text",
+        "text": "Drop goes live in 2h. You're on the early list, don't be late 😉"
+      }
+    ],
+    "fanFrom": [
+      "nova.rey",
+      "aria",
+      "isSerena",
+      "zoe",
+      "rexplays"
+    ]
+  },
+  "replies": {
+    "creatorFan": [
+      "Omg you replied 😭",
+      "Thank you!!",
+      "Deal 🙌",
+      "Can't wait to see it. Don't hold back",
+      "You're the best",
+      "Haha love that",
+      "Okay I'm hyped now"
+    ],
+    "creatorCreator": [
+      "Let's do it",
+      "Sending details tonight. You'll like them",
+      "Haha deal",
+      "Love that idea",
+      "Count me in 🔥"
+    ],
+    "fanCreator": [
+      "Haha love it 🔥",
+      "You make me blush 💜",
+      "Deal. Give me 24h.",
+      "You always pick the boldest ones 😏",
+      "Okay okay, I'm in."
+    ],
+    "acceptCounter": [
+      "Deal. You're worth it 🙌",
+      "Fair, let's do it!",
+      "Sold. Paying now 💸"
+    ],
+    "negotiate": [
+      "Could you do {mid}? I'll make it up to you with a tip 😅"
+    ],
+    "thanks": [
+      "THIS IS INSANE 🥵 thank you",
+      "Watched it 10 times already. Send help.",
+      "Perfect. Keeping this one all to myself 🔥"
+    ],
+    "creatorAccepts": [
+      "Bold. I like it. I'm in 🎬",
+      "Ooh, challenge accepted 😈",
+      "Done deal. Shooting it tonight, lights low"
+    ],
+    "creatorDelivers": [
+      "Here you go ✨",
+      "Shot it this morning, wet hair and all. Enjoy",
+      "One take, as promised. Don't watch it in public 😏"
+    ],
+    "duelAccept": [
+      "Let's go. May the hottest one win ⚔️"
+    ]
+  }
+}

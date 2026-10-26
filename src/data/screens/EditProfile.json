@@ -1,0 +1,42 @@
+{
+  "title": "Edit profile",
+  "changePhoto": "Change photo",
+  "removePhoto": "Remove current photo",
+  "banner": {
+    "verified": { "title": "Identity verified", "text": "Your identity is confirmed. The badge shows on your public profile.", "cta": "Manage" },
+    "pending": { "title": "Verification in progress", "text": "We are reviewing your ID. This usually takes a few minutes.", "cta": "Under review" },
+    "unverified": { "title": "Verify your identity", "text": "Confirm who you are to unlock payouts and your badge.", "cta": "Verify now" }
+  },
+  "section": "PROFILE",
+  "nameLabel": "Display name",
+  "userLabel": "Username",
+  "available": "Available",
+  "taken": "Too short",
+  "bioLabel": "Bio",
+  "bioHelp": "Shown on your public profile",
+  "bioMax": 150,
+  "save": "Save changes",
+  "saved": "Profile saved",
+  "links": "LINKS",
+  "linkRows": [
+    { "kind": "web", "value": "novarey.studio" },
+    { "kind": "instagram", "value": "@nova.rey" },
+    { "kind": "tiktok", "value": "@nova.rey" },
+    { "kind": "x", "value": "@novarey" }
+  ],
+  "addLink": "Add another link",
+  "newLink": { "kind": "web", "value": "youtube.com/@novarey" },
+  "publicLink": "PUBLIC PROFILE LINK",
+  "domain": "daresonly.co/",
+  "copy": "Copy",
+  "copied": "Link copied",
+  "linkHelp": "Changing your username also changes this link.",
+  "qr": "PROFILE QR CODE",
+  "scan": "Scan to open",
+  "download": "Download",
+  "share": "Share",
+  "downloaded": "QR code saved to Photos",
+  "shared": "Share sheet opened",
+  "photoChanged": "Photo updated",
+  "photoRemoved": "Photo removed"
+}

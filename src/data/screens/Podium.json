@@ -1,0 +1,22 @@
+{
+  "seasonTab": "This season",
+  "allTimeTab": "All-time",
+  "worldLabel": "World",
+  "categoryLabel": "Category",
+  "all": "All",
+  "podiumLabel": "SEASON 7 · TOP JOKERS",
+  "podiumLabelAllTime": "ALL-TIME · TOP JOKERS",
+  "leading": "Leading",
+  "chase": "The chase",
+  "chaseRanks": "Ranks 4 to 10",
+  "yourPosition": "YOUR POSITION",
+  "you": "YOU",
+  "toNext": "pts to reach #",
+  "howTitle": "How jokers score",
+  "how": [
+    "Vote in duels and dares",
+    "Unlock videos and drops",
+    "Back the hottest winner early for a bonus"
+  ],
+  "rewards": "Top 3 at the end of the season win gold, silver and bronze."
+}

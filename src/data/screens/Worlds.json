@@ -1,0 +1,51 @@
+{
+  "seasonBanner": {
+    "eyebrow": "SEASON 7 · LIVE",
+    "title": "Top 3 of every ranking wins a medal",
+    "sub": "Gold, silver, bronze. Global, per world and per sub-world.",
+    "cta": "See the podium"
+  },
+  "champions": {
+    "allTime": "ALL-TIME",
+    "season": "SEASON"
+  },
+  "subLabel": "SUB-WORLDS · TAP TO ENTER",
+  "favEmpty": "Tap the heart on a world to pin it here.",
+  "favAdded": "Added to your worlds",
+  "favRemoved": "Removed from your worlds",
+  "world": {
+    "all": "All",
+    "leaderboard": "LEADERBOARD",
+    "seasonTabs": [
+      "SEASON",
+      "ALL-TIME"
+    ],
+    "seasonLeft": "SEASON 7 · 12D LEFT",
+    "leading": "Leading",
+    "fullRanking": "SEE FULL RANKING",
+    "hideRanking": "HIDE FULL RANKING",
+    "champion": "ALL-TIME CHAMPION",
+    "challenge": "Challenge",
+    "watch": "Watch",
+    "challengeSent": "Duel request sent to {handle}",
+    "emptySection": "Nothing live here yet. Be the first to turn up the heat.",
+    "postDare": "Post a dare",
+    "risingSub": "Heating up in {world} this season",
+    "exploreSub": "Latest videos"
+  },
+  "video": {
+    "followers": "followers",
+    "winsSeason": "wins this season",
+    "partOf": "Part of",
+    "related": "More from {world}",
+    "liked": "Liked",
+    "posted": "Comment posted",
+    "you": "you",
+    "now": "now",
+    "reply": "Reply",
+    "unlocked": "Unlocked · playing in full HD",
+    "subsOnly": "Subscribers only",
+    "freeLabel": "Free video · enjoy",
+    "tip": "Send a tip"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "default": {
+    "level": 8,
+    "xp": 1820,
+    "xpNext": 2400,
+    "rankLabel": "Fan · top 20% of fans",
+    "bio": "Here for the hottest duels. Voting every night."
+  },
+  "byFan": {
+    "lena_k": {
+      "level": 12,
+      "xp": 3240,
+      "xpNext": 4000,
+      "rankLabel": "Superfan · top 3% of fans",
+      "bio": "Here for the twerk duels and the late night drops. Always subscribed, always voting for the boldest."
+    },
+    "bea": {
+      "level": 10,
+      "xp": 2610,
+      "xpNext": 3200,
+      "rankLabel": "Superfan · top 8% of fans",
+      "bio": "Fitness world addict. Capes, abs and shirtless battles."
+    },
+    "marco": {
+      "level": 9,
+      "xp": 2050,
+      "xpNext": 2800,
+      "rankLabel": "Fan · top 12% of fans",
+      "bio": "Cosplay lover. I dare creators to become my favorite characters, tease included."
+    },
+    "yuki": {
+      "level": 6,
+      "xp": 980,
+      "xpNext": 1600,
+      "rankLabel": "Rising fan · top 30% of fans",
+      "bio": "Warm oil and spa nights. Mostly warm oil."
+    },
+    "me": {
+      "level": 7,
+      "xp": 1340,
+      "xpNext": 2000,
+      "rankLabel": "Rising fan · top 25% of fans",
+      "bio": "New season, new obsessions."
+    }
+  },
+  "labels": {
+    "level": "LEVEL",
+    "following": "FOLLOWING",
+    "subscribed": "SUBSCRIBED",
+    "votes": "VOTES",
+    "memberSince": "member since",
+    "next": "next · Level {n}",
+    "toNext": "{n} XP to reach Level {l}",
+    "worlds": "Favorite worlds",
+    "badges": "BADGES",
+    "seeAll": "SEE ALL",
+    "recent": "Recent votes",
+    "message": "Message",
+    "follow": "Follow {name}",
+    "following2": "Following {name}",
+    "voted": "voted for"
+  },
+  "badges": [
+    {
+      "icon": "trophy",
+      "title": "Top 1% voter",
+      "text": "Voted on 1,400+ challenges this year."
+    },
+    {
+      "icon": "spark",
+      "title": "30-day streak",
+      "text": "On the app every day for a month."
+    },
+    {
+      "icon": "spark",
+      "title": "Early supporter",
+      "text": "Joined in the first season."
+    },
+    {
+      "icon": "crown",
+      "title": "Superfan",
+      "text": "9 active subscriptions and counting."
+    }
+  ],
+  "recentVotes": [
+    {
+      "challenge": "duel-02",
+      "for": "aria",
+      "ago": "1h"
+    },
+    {
+      "challenge": "dare-02",
+      "for": "mira.ink",
+      "ago": "6h"
+    },
+    {
+      "challenge": "duel-01",
+      "for": "nova.rey",
+      "ago": "1d"
+    }
+  ]
+}

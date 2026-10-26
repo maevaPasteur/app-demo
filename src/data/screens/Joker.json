@@ -1,0 +1,379 @@
+{
+  "fan": {
+    "seasonBanner": "SEASON 7 · 12 DAYS LEFT · QUESTS RESET",
+    "handle": "@alex.m",
+    "title": "CHALLENGER",
+    "xp": 1340,
+    "xpNext": 1800,
+    "xpToFace": 460,
+    "xpHint": "from your first face card.",
+    "cards": [
+      {
+        "rank": "1",
+        "level": "LV1",
+        "state": "owned"
+      },
+      {
+        "rank": "2",
+        "level": "LV2",
+        "state": "owned"
+      },
+      {
+        "rank": "3",
+        "level": "LV3",
+        "state": "current"
+      },
+      {
+        "rank": "J",
+        "level": "LV4",
+        "state": "next"
+      },
+      {
+        "rank": "Q",
+        "level": "LV5",
+        "state": "locked"
+      },
+      {
+        "rank": "K",
+        "level": "LV6",
+        "state": "locked"
+      },
+      {
+        "rank": "★",
+        "level": "LV7",
+        "state": "mythic"
+      }
+    ],
+    "cardBack": {
+      "owned": "Unlocked",
+      "current": "Your level",
+      "next": "Next · 460 XP",
+      "locked": "Locked",
+      "mythic": "Joker · finish the season"
+    },
+    "streak": {
+      "days": 4,
+      "target": 7,
+      "title": "4-day streak.",
+      "sub": "Hit 7 for a bonus 250 XP."
+    },
+    "questsTitle": "QUESTS",
+    "quests": [
+      {
+        "id": "q1",
+        "label": "Subscribe to 3 creators you can't stop watching",
+        "xp": 200,
+        "done": true,
+        "claimable": true,
+        "status": "Ready to collect"
+      },
+      {
+        "id": "q2",
+        "label": "Tip $10 to the creators who made you blush",
+        "xp": 150,
+        "done": false,
+        "cur": 6,
+        "max": 10,
+        "money": true
+      },
+      {
+        "id": "q3",
+        "label": "Vote on 20 dares",
+        "xp": 100,
+        "done": false,
+        "cur": 12,
+        "max": 20
+      }
+    ],
+    "vaultTitle": "WHAT YOU UNLOCK AT LEVEL 4",
+    "vaultCount": "4 REWARDS",
+    "vault": [
+      {
+        "rarity": "Legendary",
+        "kind": "power",
+        "name": "Double vote",
+        "desc": "Your vote counts twice when creators pick which bold dare they film next.",
+        "icon": "sparkle"
+      },
+      {
+        "rarity": "Rare",
+        "kind": "access",
+        "name": "4-second previews",
+        "desc": "One more second of free look than everyone else, right before the blur.",
+        "icon": "play"
+      },
+      {
+        "rarity": "Epic",
+        "kind": "status",
+        "name": "Front row",
+        "desc": "Your comment sits on top for the first hour after a drop. They will see you.",
+        "icon": "sparkle"
+      },
+      {
+        "rarity": "Rare",
+        "kind": "status",
+        "name": "Jack badge on your profile",
+        "desc": "Your Jack card sits next to your name in every comment and chat.",
+        "icon": "jack",
+        "preview": {
+          "label": "HOW IT LOOKS",
+          "text": "this one deserves gold, and my whole wallet"
+        }
+      }
+    ],
+    "ladderTitle": "AND AFTER LEVEL 4",
+    "ladderHint": "SCROLL",
+    "ladder": [
+      {
+        "tag": "LV5 · QUEEN",
+        "title": "One free unlock",
+        "text": "Open any locked video, once a week, blur off, on the house.",
+        "joker": false
+      },
+      {
+        "tag": "LV6 · KING",
+        "title": "Direct request",
+        "text": "Send a bold dare idea straight to any creator's inbox.",
+        "joker": false
+      },
+      {
+        "tag": "LV7 · JOKER",
+        "title": "Crowned for the season",
+        "text": "Animated Joker frame and a seat on the fan podium.",
+        "joker": true
+      }
+    ],
+    "cta": "Earn XP · open the feed",
+    "invitationsLink": "See all invitations",
+    "recapLink": "Last season recap"
+  },
+  "finished": {
+    "banner": "SEASON COMPLETE · YOU'RE A JOKER",
+    "title": "Congratulations!",
+    "sub": "You've completed every level of this season.",
+    "newSeason": "New season in",
+    "timer": "1d 6h 04m",
+    "rewardsTitle": "ALL YOUR REWARDS",
+    "you": "YOU",
+    "cta": "Back to this season"
+  },
+  "creator": {
+    "title": "What's your move?",
+    "sub": "Jump into an open arena or start your own.",
+    "needsYou": "NEEDS YOU",
+    "inProgress": "IN PROGRESS",
+    "startNew": "START SOMETHING NEW",
+    "seeAll": "See all",
+    "progress": [
+      {
+        "id": "p1",
+        "type": "Duel",
+        "tags": [
+          "Lifestyle",
+          "Beach"
+        ],
+        "timer": "3h 04m",
+        "you": 58,
+        "rival": "isSerena",
+        "rivalPct": 42,
+        "to": "/world/content"
+      },
+      {
+        "id": "p2",
+        "type": "Dare",
+        "tags": [
+          "Lifestyle",
+          "Home"
+        ],
+        "timer": "1d 04h",
+        "rank": 3,
+        "of": 9,
+        "leader": "6,400 pts",
+        "pct": 62,
+        "others": [
+          "kenza.home",
+          "isSerena",
+          "zoe"
+        ],
+        "more": 6,
+        "to": "/world/content"
+      },
+      {
+        "id": "p3",
+        "type": "Drop",
+        "tags": [
+          "Lifestyle",
+          "Beach"
+        ],
+        "timer": "2d 06h",
+        "backers": 47,
+        "raised": 620,
+        "goal": 800,
+        "to": "/"
+      }
+    ],
+    "formats": [
+      {
+        "id": "video",
+        "title": "Video",
+        "tag": "PAY-PER-VIEW",
+        "accent": "cool",
+        "text": "Post straight to your profile. Free teasers to grow your audience, exclusive paid content to make them pay for the rest.",
+        "primary": "Post a video",
+        "to": "/create/drop"
+      },
+      {
+        "id": "duel",
+        "title": "Duel",
+        "tag": "1 VS 1",
+        "accent": "hot",
+        "text": "Your video goes head-to-head with one rival. Fans unlock and vote for the hottest, the winner takes the visibility boost.",
+        "secondary": "Join a duel",
+        "primary": "Create a duel",
+        "to": "/create/duel",
+        "secondaryTo": "/worlds"
+      },
+      {
+        "id": "dare",
+        "title": "Dare",
+        "tag": "MANY CREATORS",
+        "accent": "cyan",
+        "text": "One challenge, many creators competing. Get paid each time a fan unlocks your video to vote.",
+        "secondary": "Enter a dare",
+        "primary": "Create a dare",
+        "to": "/create/dare",
+        "secondaryTo": "/"
+      },
+      {
+        "id": "drop",
+        "title": "Drop",
+        "tag": "CROWDFUND",
+        "accent": "gold",
+        "text": "Pre-sell content that doesn't exist yet, solo or collab. Backers fund it, every stretch goal reveals more.",
+        "primary": "Create a drop",
+        "to": "/create/drop"
+      }
+    ]
+  },
+  "invitations": {
+    "title": "Invitations",
+    "tabs": [
+      "All",
+      "Duels",
+      "Collabs",
+      "Dares"
+    ],
+    "decline": "Decline",
+    "with": "with",
+    "fundedTitle": "UNLOCKS ONCE THE DROP IS FUNDED",
+    "items": [
+      {
+        "id": "i1",
+        "type": "DUEL",
+        "tab": "Duels",
+        "from": "aria",
+        "verb": "challenged you to a duel",
+        "timer": "6h 12m",
+        "tags": [
+          "Dance",
+          "Bikini dance"
+        ],
+        "with": [
+          "lina.k",
+          "isSerena"
+        ],
+        "text": "Sunset choreo on wet sand in a 30s clip. Hottest take wins the visibility boost.",
+        "cta": "Accept & upload",
+        "accent": "hot"
+      },
+      {
+        "id": "i2",
+        "type": "DROP",
+        "tab": "Collabs",
+        "from": "isSerena",
+        "verb": "invited you to a collab drop",
+        "timer": "2d 06h",
+        "tags": [
+          "Lifestyle",
+          "Beach"
+        ],
+        "with": [
+          "kenza.home",
+          "duo.sol"
+        ],
+        "text": "A golden hour beach set, sunset to starlight. Three looks, each one smaller, one take each.",
+        "cta": "Join drop",
+        "accent": "gold",
+        "unlocks": [
+          {
+            "label": "Extended 5-min cut",
+            "amount": 300
+          },
+          {
+            "label": "Behind-the-scenes, the takes nobody sees",
+            "amount": 600
+          },
+          {
+            "label": "Raw files for all backers",
+            "amount": 1000
+          }
+        ]
+      },
+      {
+        "id": "i3",
+        "type": "DARE",
+        "tab": "Dares",
+        "from": "mira.ink",
+        "verb": "dared you to enter",
+        "timer": "1d 03h",
+        "tags": [
+          "Cosplay",
+          "Fantasy"
+        ],
+        "with": [
+          "noor.paint",
+          "zoe"
+        ],
+        "text": "Dance in full cosplay. Costume stays on, the tease goes all the way, 30 seconds.",
+        "cta": "Enter dare",
+        "accent": "cyan"
+      },
+      {
+        "id": "i4",
+        "type": "PRIVATE",
+        "tab": "Dares",
+        "from": "marco",
+        "verb": "sent a private challenge",
+        "timer": "12h 40m",
+        "tags": [
+          "Lifestyle",
+          "Beach"
+        ],
+        "with": [],
+        "text": "A slow motion walk out of the water at sunset, swimsuit of my choice, eyes on the lens.",
+        "price": 12,
+        "cta": "Accept & upload",
+        "accent": "cool"
+      },
+      {
+        "id": "i5",
+        "type": "DUEL",
+        "tab": "Duels",
+        "from": "rexplays",
+        "verb": "wants a rematch",
+        "timer": "4h 20m",
+        "tags": [
+          "Fitness",
+          "Hero training"
+        ],
+        "with": [
+          "kai.ollie",
+          "sam.drift"
+        ],
+        "text": "Rematch on the hero physique showdown. Cape on, shirt off, one take.",
+        "cta": "Accept & upload",
+        "accent": "hot"
+      }
+    ]
+  }
+}

@@ -1,0 +1,794 @@
+{
+  "stats": [
+    {
+      "label": "FOLLOWERS",
+      "value": 128400,
+      "fmt": "k",
+      "sub": "+2.1K"
+    },
+    {
+      "label": "SUBSCRIBERS",
+      "value": 3210,
+      "fmt": "n",
+      "sub": "+184"
+    },
+    {
+      "label": "RENEWAL RATE",
+      "value": 94,
+      "fmt": "pct",
+      "sub": ""
+    }
+  ],
+  "editProfile": "Edit profile",
+  "viewPublic": "View public profile",
+  "earnings": "EARNINGS",
+  "seeAll": "SEE ALL",
+  "thisMonth": "THIS MONTH",
+  "vsLast": "vs last month",
+  "paidInstantly": "Paid instantly, every time. Last payment 2 minutes ago.",
+  "recentTitle": "Latest payments",
+  "referral": "REFERRAL",
+  "referralTitle": "Invite creators, earn",
+  "referralPct": "5%",
+  "referralSub": "3 joined · $420 earned so far",
+  "referralToast": "Invite link copied",
+  "awards": "AWARDS",
+  "open": "OPEN",
+  "medalsAllTime": "medals all-time",
+  "duelWins": "duel wins",
+  "awardsHint": "2 more duel wins to keep gold in",
+  "ranking": "RANKING",
+  "rankingSub": "Live · updates with every vote",
+  "worldwide": "worldwide",
+  "in": "in",
+  "toBronze": "pts to bronze",
+  "holding": "Holding",
+  "inContention": "Medal in contention · season ends in 12d",
+  "outside": "Top 3 at the end of the season wins a medal",
+  "leaderboard": "Leaderboard",
+  "you": "YOU",
+  "content": "YOUR CONTENT",
+  "manage": "MANAGE",
+  "tiles": [
+    {
+      "id": "videos",
+      "title": "Videos",
+      "sub": "214 posted",
+      "to": "/creator/nova.rey"
+    },
+    {
+      "id": "drops",
+      "title": "Drops",
+      "sub": "1 active",
+      "dot": "hot",
+      "to": "/create/drop"
+    },
+    {
+      "id": "duels",
+      "title": "Duels & dares",
+      "sub": "2 live",
+      "dot": "hot",
+      "to": "/joker/creator"
+    },
+    {
+      "id": "insights",
+      "title": "Insights",
+      "sub": "Analytics",
+      "to": ""
+    }
+  ],
+  "insightsToast": "Insights: +18% revenue, 94% renewal this month",
+  "settings": "SETTINGS",
+  "settingsRows": [
+    {
+      "id": "subs",
+      "label": "Subscriptions & earnings"
+    },
+    {
+      "id": "identity",
+      "label": "Identity verification"
+    },
+    {
+      "id": "privacy",
+      "label": "Privacy & safety"
+    },
+    {
+      "id": "notifications",
+      "label": "Notifications"
+    },
+    {
+      "id": "help",
+      "label": "Help & support"
+    },
+    {
+      "id": "logout",
+      "label": "Log out"
+    }
+  ],
+  "status": {
+    "verified": "Verified",
+    "pending": "Pending",
+    "unverified": "Not verified"
+  },
+  "restart": "Restart demo",
+  "badges": [
+    {
+      "label": "Top 1% creator",
+      "accent": "gold"
+    },
+    {
+      "label": "Beach champion",
+      "accent": "gold"
+    },
+    {
+      "label": "Season 7 · #2 global",
+      "accent": "cyan"
+    }
+  ],
+  "kpiTitle": "PERFORMANCE · SEASON 7",
+  "kpis": [
+    {
+      "id": "followers",
+      "label": "Followers",
+      "value": 128400,
+      "fmt": "k",
+      "delta": "+2.1K this week",
+      "spark": [
+        96,
+        99,
+        103,
+        107,
+        110,
+        114,
+        118,
+        121,
+        124,
+        128
+      ]
+    },
+    {
+      "id": "subscribers",
+      "label": "Subscribers",
+      "value": 3210,
+      "fmt": "n",
+      "delta": "+184 this month",
+      "spark": [
+        2600,
+        2680,
+        2750,
+        2810,
+        2890,
+        2950,
+        3010,
+        3090,
+        3150,
+        3210
+      ],
+      "accent": "cool"
+    },
+    {
+      "id": "mrr",
+      "label": "Monthly subs revenue",
+      "value": 32067,
+      "fmt": "money",
+      "delta": "+6.1% vs last month",
+      "spark": [
+        26,
+        27,
+        27.5,
+        28.4,
+        29,
+        29.8,
+        30.5,
+        31.1,
+        31.6,
+        32.1
+      ]
+    },
+    {
+      "id": "lifetime",
+      "label": "Lifetime earnings",
+      "value": 214380,
+      "fmt": "money",
+      "delta": "paid instantly, every sale",
+      "spark": [
+        60,
+        78,
+        95,
+        112,
+        130,
+        148,
+        165,
+        184,
+        199,
+        214
+      ]
+    },
+    {
+      "id": "conversion",
+      "label": "Unlock conversion",
+      "value": 12.4,
+      "fmt": "pct1",
+      "delta": "+1.8 pts · top 3%",
+      "spark": [
+        8.1,
+        8.9,
+        9.4,
+        9.9,
+        10.6,
+        11,
+        11.3,
+        11.9,
+        12.1,
+        12.4
+      ],
+      "accent": "cyan"
+    },
+    {
+      "id": "watch",
+      "label": "Avg watch time",
+      "value": 87,
+      "fmt": "pct",
+      "delta": "of each video watched",
+      "spark": [
+        78,
+        80,
+        81,
+        83,
+        84,
+        84,
+        85,
+        86,
+        86,
+        87
+      ]
+    },
+    {
+      "id": "votes",
+      "label": "Votes received",
+      "value": 48210,
+      "fmt": "k",
+      "delta": "+3.4K in 7 days",
+      "spark": [
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48
+      ],
+      "accent": "cyan"
+    },
+    {
+      "id": "medals",
+      "label": "Medals won",
+      "value": 6,
+      "fmt": "n",
+      "delta": "3 gold · 1 silver · 2 bronze",
+      "spark": [
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        5,
+        5,
+        6
+      ]
+    }
+  ],
+  "revenue": {
+    "title": "REVENUE",
+    "ranges": [
+      {
+        "id": "7d",
+        "label": "7D",
+        "total": 2412.5,
+        "delta": "+14%",
+        "points": [
+          {
+            "l": "Mon",
+            "v": 286
+          },
+          {
+            "l": "Tue",
+            "v": 310
+          },
+          {
+            "l": "Wed",
+            "v": 298
+          },
+          {
+            "l": "Thu",
+            "v": 355
+          },
+          {
+            "l": "Fri",
+            "v": 402
+          },
+          {
+            "l": "Sat",
+            "v": 421
+          },
+          {
+            "l": "Sun",
+            "v": 340.5
+          }
+        ]
+      },
+      {
+        "id": "30d",
+        "label": "30D",
+        "total": 8420.5,
+        "delta": "+18%",
+        "points": [
+          {
+            "l": "Oct 1",
+            "v": 186.74
+          },
+          {
+            "l": "Oct 2",
+            "v": 198.94
+          },
+          {
+            "l": "Oct 3",
+            "v": 229.97
+          },
+          {
+            "l": "Oct 4",
+            "v": 201.72
+          },
+          {
+            "l": "Oct 5",
+            "v": 209.59
+          },
+          {
+            "l": "Oct 6",
+            "v": 220.47
+          },
+          {
+            "l": "Oct 7",
+            "v": 193.7
+          },
+          {
+            "l": "Oct 8",
+            "v": 224.21
+          },
+          {
+            "l": "Oct 9",
+            "v": 238.66
+          },
+          {
+            "l": "Oct 10",
+            "v": 257.3
+          },
+          {
+            "l": "Oct 11",
+            "v": 202.8
+          },
+          {
+            "l": "Oct 12",
+            "v": 225.1
+          },
+          {
+            "l": "Oct 13",
+            "v": 210.6
+          },
+          {
+            "l": "Oct 14",
+            "v": 279.81
+          },
+          {
+            "l": "Oct 15",
+            "v": 274.36
+          },
+          {
+            "l": "Oct 16",
+            "v": 218.16
+          },
+          {
+            "l": "Oct 17",
+            "v": 312.17
+          },
+          {
+            "l": "Oct 18",
+            "v": 316.05
+          },
+          {
+            "l": "Oct 19",
+            "v": 290.77
+          },
+          {
+            "l": "Oct 20",
+            "v": 291.91
+          },
+          {
+            "l": "Oct 21",
+            "v": 249.86
+          },
+          {
+            "l": "Oct 22",
+            "v": 239.16
+          },
+          {
+            "l": "Oct 23",
+            "v": 297.51
+          },
+          {
+            "l": "Oct 24",
+            "v": 251.8
+          },
+          {
+            "l": "Oct 25",
+            "v": 270.1
+          },
+          {
+            "l": "Oct 26",
+            "v": 280.07
+          },
+          {
+            "l": "Oct 27",
+            "v": 260.47
+          },
+          {
+            "l": "Oct 28",
+            "v": 314.12
+          },
+          {
+            "l": "Oct 29",
+            "v": 316.08
+          },
+          {
+            "l": "Oct 30",
+            "v": 368.15
+          }
+        ]
+      },
+      {
+        "id": "season",
+        "label": "Seasons",
+        "total": 41280.0,
+        "delta": "+31%",
+        "points": [
+          {
+            "l": "S1",
+            "v": 2100
+          },
+          {
+            "l": "S2",
+            "v": 3400
+          },
+          {
+            "l": "S3",
+            "v": 4600
+          },
+          {
+            "l": "S4",
+            "v": 5900
+          },
+          {
+            "l": "S5",
+            "v": 7400
+          },
+          {
+            "l": "S6",
+            "v": 8300
+          },
+          {
+            "l": "S7",
+            "v": 9580
+          }
+        ]
+      }
+    ]
+  },
+  "topVideosTitle": "TOP PERFORMING",
+  "topVideos": [
+    {
+      "video": "v01",
+      "views": "412K",
+      "unlocks": 8240,
+      "revenue": 41117,
+      "trend": "+12%"
+    },
+    {
+      "video": "v04",
+      "views": "188K",
+      "unlocks": 2190,
+      "revenue": 26280,
+      "trend": "+31%"
+    },
+    {
+      "video": "v02",
+      "views": "96K",
+      "unlocks": 3110,
+      "revenue": 6189,
+      "trend": "+4%"
+    },
+    {
+      "video": "v03",
+      "views": "71K",
+      "unlocks": 2480,
+      "revenue": 4935,
+      "trend": "+9%"
+    }
+  ],
+  "audienceTitle": "AUDIENCE",
+  "audience": {
+    "worlds": [
+      {
+        "id": "content",
+        "pct": 46
+      },
+      {
+        "id": "dance",
+        "pct": 18
+      },
+      {
+        "id": "music",
+        "pct": 14
+      },
+      {
+        "id": "action",
+        "pct": 11
+      },
+      {
+        "id": "art",
+        "pct": 6
+      },
+      {
+        "id": "gaming",
+        "pct": 5
+      }
+    ],
+    "countries": [
+      {
+        "flag": "🇺🇸",
+        "name": "United States",
+        "pct": 31
+      },
+      {
+        "flag": "🇫🇷",
+        "name": "France",
+        "pct": 17
+      },
+      {
+        "flag": "🇬🇧",
+        "name": "United Kingdom",
+        "pct": 12
+      },
+      {
+        "flag": "🇦🇪",
+        "name": "UAE",
+        "pct": 9
+      },
+      {
+        "flag": "🇧🇷",
+        "name": "Brazil",
+        "pct": 7
+      }
+    ],
+    "ages": [
+      {
+        "label": "18 to 24",
+        "pct": 41
+      },
+      {
+        "label": "25 to 34",
+        "pct": 38
+      },
+      {
+        "label": "35 to 44",
+        "pct": 14
+      },
+      {
+        "label": "45+",
+        "pct": 7
+      }
+    ],
+    "returning": 72,
+    "returningLabel": "Returning fans",
+    "newLabel": "New this month",
+    "tabs": [
+      "Worlds",
+      "Countries",
+      "Age"
+    ]
+  },
+  "goalsTitle": "GOALS",
+  "goals": [
+    {
+      "label": "150K followers",
+      "current": 128400,
+      "target": 150000,
+      "fmt": "k",
+      "eta": "ETA 3 weeks at current pace",
+      "accent": "hot"
+    },
+    {
+      "label": "$10K this month",
+      "current": 8420.5,
+      "target": 10000,
+      "fmt": "money",
+      "eta": "$1,580 to go · 6 days left",
+      "accent": "gold"
+    },
+    {
+      "label": "Keep gold in Beach",
+      "current": 6400,
+      "target": 7000,
+      "fmt": "pts",
+      "eta": "2 more duel wins locks the medal",
+      "accent": "gold"
+    }
+  ],
+  "inbox": {
+    "title": "INBOX",
+    "unread": 47,
+    "requests": 6,
+    "privatePending": 3,
+    "line": "47 unread · 6 requests · 3 private challenges waiting for you",
+    "people": [
+      "lena_k",
+      "marco",
+      "bea",
+      "yuki",
+      "nico"
+    ],
+    "cta": "Open inbox",
+    "ctaReq": "Requests"
+  },
+  "requestsTitle": "CHALLENGE REQUESTS",
+  "requests": [
+    {
+      "id": "rq1",
+      "from": "lena_k",
+      "kind": "Private challenge",
+      "accent": "hot",
+      "offer": 60,
+      "brief": "Red bikini at golden hour, sun right behind you, slow walk out of the waves. 30 seconds, one take, just for me.",
+      "deadline": "Due in 3 days",
+      "ago": "20m"
+    },
+    {
+      "id": "rq2",
+      "from": "isSerena",
+      "kind": "Duel invite",
+      "accent": "cyan",
+      "offer": 0,
+      "brief": "1v1 on the beach: hottest golden hour clip in 30 seconds. Fans unlock both and pick.",
+      "deadline": "Starts on accept · 48h",
+      "ago": "1h",
+      "revenue": "est. $1.2K"
+    },
+    {
+      "id": "rq3",
+      "from": "kenza.home",
+      "kind": "Collab drop",
+      "accent": "gold",
+      "offer": 0,
+      "brief": "Collab drop: beach to kitchen runway, two tiny looks each. 50/50 split, paid instantly.",
+      "deadline": "Drop in 5 days",
+      "ago": "3h",
+      "revenue": "est. $4K"
+    },
+    {
+      "id": "rq4",
+      "from": "marco",
+      "kind": "Private challenge",
+      "accent": "hot",
+      "offer": 120,
+      "brief": "A slow motion walk out of the water at sunset, swimsuit of my choice, eyes on the lens.",
+      "deadline": "Due in 5 days",
+      "ago": "5h"
+    }
+  ],
+  "inProgressTitle": "IN PROGRESS",
+  "requestUi": {
+    "accept": "Accept",
+    "counter": "Counter",
+    "decline": "Decline",
+    "sendCounter": "Send counter",
+    "deliver": "Deliver video",
+    "delivering": "Uploading…",
+    "delivered": "Delivered · paid instantly",
+    "waiting": "Counter sent · waiting for reply",
+    "accepted": "Accepted",
+    "recording": "Recording",
+    "steps": [
+      "Accepted",
+      "Recording",
+      "Delivered"
+    ],
+    "empty": "No pending requests. Fans can request private challenges from your public profile.",
+    "offer": "Offer",
+    "toastAccept": "Request accepted · fan notified",
+    "toastDecline": "Request declined",
+    "toastCounter": "Counter offer sent",
+    "toastDeliver": "Delivered · {amount} paid to you instantly",
+    "toastDuel": "Duel accepted · it goes live when you upload"
+  },
+  "liveTitle": "LIVE SALES",
+  "liveSales": [
+    {
+      "fan": "yuki",
+      "kind": "unlock",
+      "label": "unlocked Golden hour on my skin",
+      "amount": 4.99
+    },
+    {
+      "fan": "nico",
+      "kind": "sub",
+      "label": "subscribed",
+      "amount": 9.99
+    },
+    {
+      "fan": "ines",
+      "kind": "vote",
+      "label": "voted for you in Beach",
+      "amount": 2
+    },
+    {
+      "fan": "tom",
+      "kind": "drop",
+      "label": "bought the uncut Golden hour drop",
+      "amount": 12
+    },
+    {
+      "fan": "kiki",
+      "kind": "tip",
+      "label": "sent a tip",
+      "amount": 5
+    },
+    {
+      "fan": "dara",
+      "kind": "unlock",
+      "label": "unlocked the director's cut, again",
+      "amount": 12
+    },
+    {
+      "fan": "bea",
+      "kind": "vote",
+      "label": "voted for you in Beach",
+      "amount": 2
+    },
+    {
+      "fan": "marco",
+      "kind": "sub",
+      "label": "subscribed",
+      "amount": 9.99
+    }
+  ],
+  "quickCreateTitle": "CREATE",
+  "quickCreate": [
+    {
+      "id": "dare",
+      "title": "Post a dare",
+      "sub": "Open to all creators",
+      "to": "/create/dare",
+      "accent": "cyan"
+    },
+    {
+      "id": "duel",
+      "title": "Start a duel",
+      "sub": "Pick a rival",
+      "to": "/create/duel",
+      "accent": "hot"
+    },
+    {
+      "id": "drop",
+      "title": "Launch a drop",
+      "sub": "Sell once",
+      "to": "/create/drop",
+      "accent": "gold"
+    }
+  ],
+  "payoutActive": "Payouts active · instant after every sale",
+  "payoutSetupCta": "/me/payout"
+}
